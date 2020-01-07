@@ -13,6 +13,11 @@ process-yt-captions.py < raw-caption-file.txt > processed-captions.txt
 00:02	we want to see all right so I printed
 00:06	out the questions okay so what we're
 00:08	gonna do is first we have some questions
+
+becomes
+
+[00:00]
+all right we see red lights that's what we want to see all right so I printed out the questions okay so what we're gonna do is first we have some questions
 """
 
 # make an empty hash

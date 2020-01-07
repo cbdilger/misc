@@ -1,6 +1,13 @@
 #!/usr/local/bin/python3
 """
-Bradley Dilger, cbdilger@gmail.com: parse captions copied from YouTube, reduce the number of timestamps printed out, put them in brackets, and concatenate the strings involved. 
+Bradley Dilger, cbdilger@gmail.com
+parse captions copied from YouTube,
+reduce the number of timestamps printed out,
+put them in brackets,
+and concatenate the strings involved. 
+
+Usage:
+process-yt-captions.py < raw-caption-file.txt > processed-captions.txt
 
 00:00	all right we see red lights that's what
 00:02	we want to see all right so I printed
